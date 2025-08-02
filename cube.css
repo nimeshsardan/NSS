@@ -1,5 +1,5 @@
 body {
-  margin: 0;
+  margin: 10;
   height: 100vh;
   background: #f6f2f2;
   display: flex;
@@ -21,7 +21,7 @@ body {
   width: 200px;
   height: 200px;
   background: #4234db;
-  color: white;
+  color: Gray;
   font-size: 24px;
   display: flex;
   align-items: center;
